@@ -16,6 +16,9 @@
 
 #pragma once
 
+#define DEBOUNCE 10
+#define USB_POLLING_INTERVAL_MS 1
+
 /* RGB Matrix Driver Configuration */
 #define DRIVER_COUNT 2
 #define DRIVER_ADDR_1 0b1110111

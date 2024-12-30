@@ -16,6 +16,9 @@
 
 #pragma once
 
+#define DEBOUNCE 10
+#define USB_POLLING_INTERVAL_MS 1
+
 /* We uses a pin with a stronger pull resistor than the internal MCU pins */
 // #define MATRIX_UNSELECT_DRIVE_HIGH
 

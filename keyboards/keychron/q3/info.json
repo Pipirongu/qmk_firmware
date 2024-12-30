@@ -14,8 +14,8 @@
         "console": false,
         "dip_switch": true,
         "extrakey": true,
-        "mousekey": true,
-        "nkro": true,
+        "mousekey": false,
+        "nkro": false,
         "rgb_matrix": true
     },
     "rgb_matrix": {
