@@ -16,6 +16,9 @@
 
 #pragma once
 
+#define DEBOUNCE 10
+#define USB_POLLING_INTERVAL_MS 1
+
 /* COL2ROW or ROW2COL */
 #define DIODE_DIRECTION ROW2COL
 

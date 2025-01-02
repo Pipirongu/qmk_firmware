@@ -16,6 +16,9 @@
 
 #pragma once
 
+#define DEBOUNCE 10
+#define USB_POLLING_INTERVAL_MS 1
+
 /* key matrix pins */
 #define MATRIX_ROW_PINS \
     { B5, B4, B3, A15, A14, A13 }
